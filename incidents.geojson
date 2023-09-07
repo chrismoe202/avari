@@ -1,0 +1,886 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47404,
+          47.23459
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-01-12T16:48:59+01:00",
+        "name": "Radst\u00e4tter Tauern",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 10.0,
+        "avWidth": 25.0,
+        "avBreakHeight": 10.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53972,
+          47.27806
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2023-01-15T16:18:48+01:00",
+        "name": "Fuchsloch",
+        "comment": null,
+        "dangerRatingId": 1,
+        "dangerRatingLevel": 1,
+        "dangerRatingDescription": "low",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 40.0,
+        "avWidth": 30.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "unknown",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53902,
+          47.26925
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-01-28T20:29:45+01:00",
+        "name": "Obertauern, Seekarschneid",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "old snow",
+        "avLength": 300.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 80.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.75876,
+          47.26695
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2018-02-27T15:30:46+01:00",
+        "name": "Hochgolling (G\u00f6riach)",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 200.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 100.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54301,
+          47.24274
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2018-02-17T18:20:50+01:00",
+        "name": "Obertauern, Zehnerkar, Breiter Hang",
+        "comment": null,
+        "dangerRatingId": 2,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 35.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5445,
+          47.1834
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-12-04T16:47:38+01:00",
+        "name": "Lackenspitze / Tweng",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 500.0,
+        "avWidth": 200.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44961,
+          47.23019
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2023-01-15T18:25:34+01:00",
+        "name": "Taferlnock",
+        "comment": null,
+        "dangerRatingId": 1,
+        "dangerRatingLevel": 1,
+        "dangerRatingDescription": "low",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 50.0,
+        "avWidth": 40.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "unknown",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45254,
+          47.22593
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2022-12-08T15:55:00+01:00",
+        "name": "Taferlnock",
+        "comment": null,
+        "dangerRatingId": 1,
+        "dangerRatingLevel": 1,
+        "dangerRatingDescription": "low",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 120.0,
+        "avWidth": 70.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.66176,
+          47.27456
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-02-07T15:17:34+01:00",
+        "name": "Engelkarspitze",
+        "comment": null,
+        "dangerRatingId": 2,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "old snow",
+        "avLength": 200.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52941,
+          47.23934
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2017-12-29T17:18:46+01:00",
+        "name": "Obertauern",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 300.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5335,
+          47.24187
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-01-18T15:27:08+01:00",
+        "name": "Obertauern, Brettsteinalm",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 100.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 1.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5337,
+          47.26494
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2017-11-28T20:18:09+01:00",
+        "name": "Obertauern",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 200.0,
+        "avBreakHeight": 90.0,
+        "avType": "gliding",
+        "avSize": "3: large avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62949,
+          47.12884
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2023-02-07T16:41:14+01:00",
+        "name": "Speiereck",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 120.0,
+        "avWidth": 80.0,
+        "avBreakHeight": 150.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": "unknown",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55799,
+          47.22882
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-02-13T16:25:19+01:00",
+        "name": "Gro\u00dfe Kesselspitze",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 20.0,
+        "avWidth": 10.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42891,
+          47.20733
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-01-18T15:29:24+01:00",
+        "name": "Zederhaus, Gro\u00dfkessel",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avType": "unknown",
+        "avSize": "unknown",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62754,
+          47.13616
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2023-01-23T19:25:58+01:00",
+        "name": "Zallingraben",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "old snow",
+        "avLength": 450.0,
+        "avWidth": 30.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43741,
+          47.2748
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2016-01-12T13:48:34+01:00",
+        "name": "Zauchensee, Tagweidegg 1",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45691,
+          47.19719
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-01-18T15:55:28+01:00",
+        "name": "Zederhaus, Kleiner Kesselbach",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avType": "slab",
+        "avSize": "unknown",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53561,
+          47.26967
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2016-02-13T20:36:16+01:00",
+        "name": "Schafkar, Untertauern",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 300.0,
+        "avWidth": 50.0,
+        "avBreakHeight": 150.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.64792,
+          47.3366
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2015-02-23T18:07:54+01:00",
+        "name": "Guschen",
+        "comment": null,
+        "dangerRatingId": 2,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 400.0,
+        "avWidth": 60.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53303,
+          47.26433
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2017-12-10T09:06:59+01:00",
+        "name": "Seekareck, Obertauern",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 50.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53681,
+          47.24672
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2016-02-13T20:45:13+01:00",
+        "name": "L\u00e4rchboden, Untertauern",
+        "comment": null,
+        "dangerRatingId": 2,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 300.0,
+        "avWidth": 5.0,
+        "avBreakHeight": 25.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4527,
+          47.22538
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2016-03-05T20:07:46+01:00",
+        "name": "Taferlnock, Flachau",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 750.0,
+        "avWidth": 150.0,
+        "avBreakHeight": 60.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53715,
+          47.26222
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2017-02-26T16:54:16+01:00",
+        "name": "Obertauern/Seekareck/S\u00fcdh\u00e4nge",
+        "comment": null,
+        "dangerRatingId": 2,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 150.0,
+        "avWidth": 45.0,
+        "avBreakHeight": 25.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56469,
+          47.26932
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2017-04-21T12:34:26+02:00",
+        "name": "Wurmwand",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 150.0,
+        "avWidth": 50.0,
+        "avBreakHeight": 160.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54757,
+          47.24457
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2017-02-26T16:58:02+01:00",
+        "name": "Obertauern/Gamsleitenplatte",
+        "comment": null,
+        "dangerRatingId": 2,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 25.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 25.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62228,
+          47.28131
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2018-02-27T18:49:22+01:00",
+        "name": "Steir. Kalkspitze (Wei\u00dfpriach)",
+        "comment": null,
+        "dangerRatingId": 2,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 70.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 40.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4501,
+          47.21947
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-01-04T13:55:12+01:00",
+        "name": "Taferlnock, Flachau",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 150.0,
+        "avWidth": 30.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53554,
+          47.26984
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-01-20T14:31:00+01:00",
+        "name": "Seekarschneid",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 450.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 150.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53584,
+          47.26871
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-01-20T14:40:51+01:00",
+        "name": "Seekarschneid",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 400.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 70.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43495,
+          47.2775
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2021-03-24T15:13:19+01:00",
+        "name": "Tagweidegg, Zauchensee",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 400.0,
+        "avWidth": 80.0,
+        "avBreakHeight": 150.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.08941,
+          46.98933
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2023-05-31T13:53:41+02:00",
+        "name": "Westlicher Daunkogel",
+        "comment": null,
+        "dangerRatingId": 7,
+        "dangerRatingDescription": "not assigned",
+        "dangerProblem": "old snow",
+        "avWidth": 200.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": "artificial",
+        "avHumidity": "dry",
+        "validTime": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55723,
+          47.2367
+        ]
+      },
+      "properties": {
+        "dateTimeReport": "2016-03-10T14:43:49+01:00",
+        "name": "Kesselspitze, Obertauern",
+        "comment": null,
+        "dangerRatingId": 3,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 40.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "avRelease": null,
+        "avHumidity": null,
+        "validTime": null
+      }
+    }
+  ]
+}
