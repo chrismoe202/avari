@@ -22,7 +22,9 @@
         "ElevationPosition": 2056,
         "validAspect": "NW",
         "validSlopeAngle": 33,
-        "summary_incident": "Ereignis:\nRadst\u00e4tter Tauern (2020-12-31)\n\nSeehoehe: 2056m, Ausrichtung: NW, Hangneigung: 33\u00b0\nWarnstufe: 3, Groesse: 1: small avalanche"
+        "summary_incident_title": "Radst\u00e4tter Tauern (2020-12-31)\n\n",
+        "summary_incident_location": "Seehoehe: 2056m, Ausrichtung: NW, Hangneigung: 33\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 1: small avalanche"
       }
     },
     {
@@ -46,7 +48,9 @@
         "ElevationPosition": 1960,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nEnnskraxen Steckenriedel (2019-12-28)\n\nSeehoehe: 1960m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 3: large avalanche"
+        "summary_incident_title": "Ennskraxen Steckenriedel (2019-12-28)\n\n",
+        "summary_incident_location": "Seehoehe: 1960m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 3: large avalanche"
       }
     },
     {
@@ -70,7 +74,9 @@
         "ElevationPosition": 2200,
         "validAspect": "S",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nWei\u00dfenbachtal (2017-03-11)\n\nSeehoehe: 2200m, Ausrichtung: S, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Wei\u00dfenbachtal (2017-03-11)\n\n",
+        "summary_incident_location": "Seehoehe: 2200m, Ausrichtung: S, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -94,7 +100,9 @@
         "ElevationPosition": 2000,
         "validAspect": "NW",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nMitterk\u00f6gerl / Teufenbachtal (2021-01-30)\n\nSeehoehe: 2000m, Ausrichtung: NW, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Mitterk\u00f6gerl / Teufenbachtal (2021-01-30)\n\n",
+        "summary_incident_location": "Seehoehe: 2000m, Ausrichtung: NW, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -118,7 +126,9 @@
         "ElevationPosition": 1725,
         "validAspect": "SE",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nJamnigalm (2018-03-22)\n\nSeehoehe: 1725m, Ausrichtung: SE, Hangneigung: 35\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Jamnigalm (2018-03-22)\n\n",
+        "summary_incident_location": "Seehoehe: 1725m, Ausrichtung: SE, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -142,7 +152,9 @@
         "ElevationPosition": 2240,
         "validAspect": "SW",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nGartenboden (2021-04-13)\n\nSeehoehe: 2240m, Ausrichtung: SW, Hangneigung: 35\u00b0\nWarnstufe: 3, Groesse: 1: small avalanche"
+        "summary_incident_title": "Gartenboden (2021-04-13)\n\n",
+        "summary_incident_location": "Seehoehe: 2240m, Ausrichtung: SW, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 1: small avalanche"
       }
     },
     {
@@ -166,7 +178,9 @@
         "ElevationPosition": 1870,
         "validAspect": "NW",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nFuchsloch (2023-01-15)\n\nSeehoehe: 1870m, Ausrichtung: NW, Hangneigung: 40\u00b0\nWarnstufe: 1, Groesse: 1: small avalanche"
+        "summary_incident_title": "Fuchsloch (2023-01-15)\n\n",
+        "summary_incident_location": "Seehoehe: 1870m, Ausrichtung: NW, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 1, Groesse: 1: small avalanche"
       }
     },
     {
@@ -190,7 +204,9 @@
         "ElevationPosition": 1950,
         "validAspect": "NW",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nKatzenkopf (2021-01-19)\n\nSeehoehe: 1950m, Ausrichtung: NW, Hangneigung: 35\u00b0\nWarnstufe: 3, Groesse: 1: small avalanche"
+        "summary_incident_title": "Katzenkopf (2021-01-19)\n\n",
+        "summary_incident_location": "Seehoehe: 1950m, Ausrichtung: NW, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 1: small avalanche"
       }
     },
     {
@@ -214,7 +230,9 @@
         "ElevationPosition": 1750,
         "validAspect": "NE",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nRauris-Kolm Saigurn - Hoher Sonnblick (2021-04-09)\n\nSeehoehe: 1750m, Ausrichtung: NE, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Rauris-Kolm Saigurn - Hoher Sonnblick (2021-04-09)\n\n",
+        "summary_incident_location": "Seehoehe: 1750m, Ausrichtung: NE, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -238,7 +256,9 @@
         "ElevationPosition": 2360,
         "validAspect": "S",
         "validSlopeAngle": 38,
-        "summary_incident": "Ereignis:\nLucket\u00f6rl S\u00fcd (2019-12-26)\n\nSeehoehe: 2360m, Ausrichtung: S, Hangneigung: 38\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Lucket\u00f6rl S\u00fcd (2019-12-26)\n\n",
+        "summary_incident_location": "Seehoehe: 2360m, Ausrichtung: S, Hangneigung: 38\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -262,7 +282,9 @@
         "ElevationPosition": 2200,
         "validAspect": "SE",
         "validSlopeAngle": 45,
-        "summary_incident": "Ereignis:\nObertauern, Seekarschneid (2021-01-20)\n\nSeehoehe: 2200m, Ausrichtung: SE, Hangneigung: 45\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Obertauern, Seekarschneid (2021-01-20)\n\n",
+        "summary_incident_location": "Seehoehe: 2200m, Ausrichtung: SE, Hangneigung: 45\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -286,7 +308,9 @@
         "ElevationPosition": 2860,
         "validAspect": "SW",
         "validSlopeAngle": 43,
-        "summary_incident": "Ereignis:\nScharek M\u00f6lltaler Gletscher (2017-12-29)\n\nSeehoehe: 2860m, Ausrichtung: SW, Hangneigung: 43\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Scharek M\u00f6lltaler Gletscher (2017-12-29)\n\n",
+        "summary_incident_location": "Seehoehe: 2860m, Ausrichtung: SW, Hangneigung: 43\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -310,7 +334,9 @@
         "ElevationPosition": 2750,
         "validAspect": "NW",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nHochgolling (G\u00f6riach) (2018-02-24)\n\nSeehoehe: 2750m, Ausrichtung: NW, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Hochgolling (G\u00f6riach) (2018-02-24)\n\n",
+        "summary_incident_location": "Seehoehe: 2750m, Ausrichtung: NW, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -334,7 +360,9 @@
         "ElevationPosition": 1950,
         "validAspect": "N",
         "validSlopeAngle": 30,
-        "summary_incident": "Ereignis:\nObertauern, Zehnerkar, Breiter Hang (2018-02-17)\n\nSeehoehe: 1950m, Ausrichtung: N, Hangneigung: 30\u00b0\nWarnstufe: 2, Groesse: 1: small avalanche"
+        "summary_incident_title": "Obertauern, Zehnerkar, Breiter Hang (2018-02-17)\n\n",
+        "summary_incident_location": "Seehoehe: 1950m, Ausrichtung: N, Hangneigung: 30\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 1: small avalanche"
       }
     },
     {
@@ -358,7 +386,9 @@
         "ElevationPosition": 2400,
         "validAspect": "NE",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nLackenspitze / Tweng (2021-12-04)\n\nSeehoehe: 2400m, Ausrichtung: NE, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Lackenspitze / Tweng (2021-12-04)\n\n",
+        "summary_incident_location": "Seehoehe: 2400m, Ausrichtung: NE, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -382,7 +412,9 @@
         "ElevationPosition": 1750,
         "validAspect": "NE",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nTaferlnock (2023-01-15)\n\nSeehoehe: 1750m, Ausrichtung: NE, Hangneigung: 35\u00b0\nWarnstufe: 1, Groesse: 1: small avalanche"
+        "summary_incident_title": "Taferlnock (2023-01-15)\n\n",
+        "summary_incident_location": "Seehoehe: 1750m, Ausrichtung: NE, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 1, Groesse: 1: small avalanche"
       }
     },
     {
@@ -406,7 +438,9 @@
         "ElevationPosition": 1420,
         "validAspect": "SE",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nMallnitz - Krumpe Tal (2019-01-15)\n\nSeehoehe: 1420m, Ausrichtung: SE, Hangneigung: 35\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Mallnitz - Krumpe Tal (2019-01-15)\n\n",
+        "summary_incident_location": "Seehoehe: 1420m, Ausrichtung: SE, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -430,7 +464,9 @@
         "ElevationPosition": 2060,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nTaferlnock (2022-12-08)\n\nSeehoehe: 2060m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 1, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Taferlnock (2022-12-08)\n\n",
+        "summary_incident_location": "Seehoehe: 2060m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 1, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -454,7 +490,9 @@
         "ElevationPosition": 2150,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nSonnblick, Melcherb\u00f6den (Rauris) (2018-02-17)\n\nSeehoehe: 2150m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Sonnblick, Melcherb\u00f6den (Rauris) (2018-02-17)\n\n",
+        "summary_incident_location": "Seehoehe: 2150m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -478,7 +516,9 @@
         "ElevationPosition": 2280,
         "validAspect": "E",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nGro\u00dfarl (2017-01-22)\n\nSeehoehe: 2280m, Ausrichtung: E, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Gro\u00dfarl (2017-01-22)\n\n",
+        "summary_incident_location": "Seehoehe: 2280m, Ausrichtung: E, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -502,7 +542,9 @@
         "ElevationPosition": 2300,
         "validAspect": "N",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nEngelkarspitze (2021-02-06)\n\nSeehoehe: 2300m, Ausrichtung: N, Hangneigung: 35\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Engelkarspitze (2021-02-06)\n\n",
+        "summary_incident_location": "Seehoehe: 2300m, Ausrichtung: N, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -526,7 +568,9 @@
         "ElevationPosition": 2100,
         "validAspect": "NE",
         "validSlopeAngle": 30,
-        "summary_incident": "Ereignis:\nSonnblick, Maschingraben (Rauris) (2018-01-09)\n\nSeehoehe: 2100m, Ausrichtung: NE, Hangneigung: 30\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Sonnblick, Maschingraben (Rauris) (2018-01-09)\n\n",
+        "summary_incident_location": "Seehoehe: 2100m, Ausrichtung: NE, Hangneigung: 30\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -550,7 +594,9 @@
         "ElevationPosition": 2075,
         "validAspect": "E",
         "validSlopeAngle": 37,
-        "summary_incident": "Ereignis:\nGro\u00dfarl (2022-01-26)\n\nSeehoehe: 2075m, Ausrichtung: E, Hangneigung: 37\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Gro\u00dfarl (2022-01-26)\n\n",
+        "summary_incident_location": "Seehoehe: 2075m, Ausrichtung: E, Hangneigung: 37\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -574,7 +620,9 @@
         "ElevationPosition": 2300,
         "validAspect": "NW",
         "validSlopeAngle": 45,
-        "summary_incident": "Ereignis:\nObertauern (2017-12-29)\n\nSeehoehe: 2300m, Ausrichtung: NW, Hangneigung: 45\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Obertauern (2017-12-29)\n\n",
+        "summary_incident_location": "Seehoehe: 2300m, Ausrichtung: NW, Hangneigung: 45\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -598,7 +646,9 @@
         "ElevationPosition": 2050,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nObertauern, Brettsteinalm (2021-01-15)\n\nSeehoehe: 2050m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Obertauern, Brettsteinalm (2021-01-15)\n\n",
+        "summary_incident_location": "Seehoehe: 2050m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -622,7 +672,9 @@
         "ElevationPosition": 2550,
         "validAspect": "SE",
         "validSlopeAngle": null,
-        "summary_incident": "Ereignis:\nBad Fusch (2019-03-17)\n\nSeehoehe: 2550m, Ausrichtung: SE, Hangneigung: None\u00b0\nWarnstufe: 3, Groesse: unknown"
+        "summary_incident_title": "Bad Fusch (2019-03-17)\n\n",
+        "summary_incident_location": "Seehoehe: 2550m, Ausrichtung: SE, Hangneigung: None\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: unknown"
       }
     },
     {
@@ -646,7 +698,9 @@
         "ElevationPosition": 2550,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nSonnblick/Goldbergkees (2021-02-13)\n\nSeehoehe: 2550m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: unknown"
+        "summary_incident_title": "Sonnblick/Goldbergkees (2021-02-13)\n\n",
+        "summary_incident_location": "Seehoehe: 2550m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: unknown"
       }
     },
     {
@@ -670,7 +724,9 @@
         "ElevationPosition": 2200,
         "validAspect": "SE",
         "validSlopeAngle": 45,
-        "summary_incident": "Ereignis:\nObertauern (2017-11-28)\n\nSeehoehe: 2200m, Ausrichtung: SE, Hangneigung: 45\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Obertauern (2017-11-28)\n\n",
+        "summary_incident_location": "Seehoehe: 2200m, Ausrichtung: SE, Hangneigung: 45\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -694,7 +750,9 @@
         "ElevationPosition": 2600,
         "validAspect": "NE",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nRauris (2022-02-27)\n\nSeehoehe: 2600m, Ausrichtung: NE, Hangneigung: 35\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Rauris (2022-02-27)\n\n",
+        "summary_incident_location": "Seehoehe: 2600m, Ausrichtung: NE, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -718,7 +776,9 @@
         "ElevationPosition": 2200,
         "validAspect": "E",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nSpeiereck (2023-02-06)\n\nSeehoehe: 2200m, Ausrichtung: E, Hangneigung: 35\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Speiereck (2023-02-06)\n\n",
+        "summary_incident_location": "Seehoehe: 2200m, Ausrichtung: E, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -742,7 +802,9 @@
         "ElevationPosition": 2100,
         "validAspect": "SE",
         "validSlopeAngle": null,
-        "summary_incident": "Ereignis:\nGro\u00dfe Kesselspitze (2021-02-13)\n\nSeehoehe: 2100m, Ausrichtung: SE, Hangneigung: None\u00b0\nWarnstufe: 3, Groesse: 1: small avalanche"
+        "summary_incident_title": "Gro\u00dfe Kesselspitze (2021-02-13)\n\n",
+        "summary_incident_location": "Seehoehe: 2100m, Ausrichtung: SE, Hangneigung: None\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 1: small avalanche"
       }
     },
     {
@@ -766,7 +828,9 @@
         "ElevationPosition": 2120,
         "validAspect": "W",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nBad Gastein, H\u00f6rkar (2019-02-07)\n\nSeehoehe: 2120m, Ausrichtung: W, Hangneigung: 35\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Bad Gastein, H\u00f6rkar (2019-02-07)\n\n",
+        "summary_incident_location": "Seehoehe: 2120m, Ausrichtung: W, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -790,7 +854,9 @@
         "ElevationPosition": null,
         "validAspect": null,
         "validSlopeAngle": null,
-        "summary_incident": "Ereignis:\nZederhaus, Gro\u00dfkessel (2021-01-15)\n\nSeehoehe: Nonem, Ausrichtung: None, Hangneigung: None\u00b0\nWarnstufe: 3, Groesse: unknown"
+        "summary_incident_title": "Zederhaus, Gro\u00dfkessel (2021-01-15)\n\n",
+        "summary_incident_location": "Seehoehe: Nonem, Ausrichtung: None, Hangneigung: None\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: unknown"
       }
     },
     {
@@ -814,7 +880,9 @@
         "ElevationPosition": 2200,
         "validAspect": "NE",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nZallingraben (2023-01-22)\n\nSeehoehe: 2200m, Ausrichtung: NE, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Zallingraben (2023-01-22)\n\n",
+        "summary_incident_location": "Seehoehe: 2200m, Ausrichtung: NE, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -838,7 +906,9 @@
         "ElevationPosition": 2100,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nH\u00fcttschlag (2023-01-29)\n\nSeehoehe: 2100m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "H\u00fcttschlag (2023-01-29)\n\n",
+        "summary_incident_location": "Seehoehe: 2100m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -862,7 +932,9 @@
         "ElevationPosition": 2080,
         "validAspect": "NE",
         "validSlopeAngle": 38,
-        "summary_incident": "Ereignis:\nZauchensee, Tagweidegg 1 (2016-01-12)\n\nSeehoehe: 2080m, Ausrichtung: NE, Hangneigung: 38\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Zauchensee, Tagweidegg 1 (2016-01-12)\n\n",
+        "summary_incident_location": "Seehoehe: 2080m, Ausrichtung: NE, Hangneigung: 38\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -886,7 +958,9 @@
         "ElevationPosition": 2500,
         "validAspect": null,
         "validSlopeAngle": null,
-        "summary_incident": "Ereignis:\nSilberpfennig (2021-02-13)\n\nSeehoehe: 2500m, Ausrichtung: None, Hangneigung: None\u00b0\nWarnstufe: 3, Groesse: unknown"
+        "summary_incident_title": "Silberpfennig (2021-02-13)\n\n",
+        "summary_incident_location": "Seehoehe: 2500m, Ausrichtung: None, Hangneigung: None\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: unknown"
       }
     },
     {
@@ -910,7 +984,9 @@
         "validAspect": null,
         "validSlopeAngle": null,
         "dangerRatingLevel": null,
-        "summary_incident": "Ereignis:\nDorfgastein, Tagkopf (2021-01-16)\n\nSeehoehe: Nonem, Ausrichtung: None, Hangneigung: None\u00b0\nWarnstufe: None, Groesse: unknown"
+        "summary_incident_title": "Dorfgastein, Tagkopf (2021-01-16)\n\n",
+        "summary_incident_location": "Seehoehe: Nonem, Ausrichtung: None, Hangneigung: None\u00b0\n",
+        "summary_incident_situation": "Warnstufe: None, Groesse: unknown"
       }
     },
     {
@@ -934,7 +1010,9 @@
         "ElevationPosition": 1600,
         "validAspect": "N",
         "validSlopeAngle": null,
-        "summary_incident": "Ereignis:\nAnlauftal, Eisarena  (2017-12-10)\n\nSeehoehe: 1600m, Ausrichtung: N, Hangneigung: None\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Anlauftal, Eisarena  (2017-12-10)\n\n",
+        "summary_incident_location": "Seehoehe: 1600m, Ausrichtung: N, Hangneigung: None\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -958,7 +1036,9 @@
         "ElevationPosition": null,
         "validAspect": null,
         "validSlopeAngle": null,
-        "summary_incident": "Ereignis:\nZederhaus, Kleiner Kesselbach (2021-01-16)\n\nSeehoehe: Nonem, Ausrichtung: None, Hangneigung: None\u00b0\nWarnstufe: 3, Groesse: unknown"
+        "summary_incident_title": "Zederhaus, Kleiner Kesselbach (2021-01-16)\n\n",
+        "summary_incident_location": "Seehoehe: Nonem, Ausrichtung: None, Hangneigung: None\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: unknown"
       }
     },
     {
@@ -982,7 +1062,9 @@
         "ElevationPosition": 2480,
         "validAspect": "N",
         "validSlopeAngle": 38,
-        "summary_incident": "Ereignis:\nSchareck Schlapperebenkees (2018-01-16)\n\nSeehoehe: 2480m, Ausrichtung: N, Hangneigung: 38\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Schareck Schlapperebenkees (2018-01-16)\n\n",
+        "summary_incident_location": "Seehoehe: 2480m, Ausrichtung: N, Hangneigung: 38\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1006,7 +1088,9 @@
         "ElevationPosition": 2200,
         "validAspect": "E",
         "validSlopeAngle": 45,
-        "summary_incident": "Ereignis:\nSchafkar, Untertauern (2016-02-06)\n\nSeehoehe: 2200m, Ausrichtung: E, Hangneigung: 45\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Schafkar, Untertauern (2016-02-06)\n\n",
+        "summary_incident_location": "Seehoehe: 2200m, Ausrichtung: E, Hangneigung: 45\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1030,7 +1114,9 @@
         "ElevationPosition": 1950,
         "validAspect": "N",
         "validSlopeAngle": 45,
-        "summary_incident": "Ereignis:\nGuschen (2015-02-22)\n\nSeehoehe: 1950m, Ausrichtung: N, Hangneigung: 45\u00b0\nWarnstufe: 2, Groesse: 3: large avalanche"
+        "summary_incident_title": "Guschen (2015-02-22)\n\n",
+        "summary_incident_location": "Seehoehe: 1950m, Ausrichtung: N, Hangneigung: 45\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 3: large avalanche"
       }
     },
     {
@@ -1054,7 +1140,9 @@
         "ElevationPosition": 2200,
         "validAspect": "E",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nSeekareck, Obertauern (2017-12-06)\n\nSeehoehe: 2200m, Ausrichtung: E, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Seekareck, Obertauern (2017-12-06)\n\n",
+        "summary_incident_location": "Seehoehe: 2200m, Ausrichtung: E, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1078,7 +1166,9 @@
         "ElevationPosition": 1880,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nL\u00e4rchboden, Untertauern (2016-02-13)\n\nSeehoehe: 1880m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 1: small avalanche"
+        "summary_incident_title": "L\u00e4rchboden, Untertauern (2016-02-13)\n\n",
+        "summary_incident_location": "Seehoehe: 1880m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 1: small avalanche"
       }
     },
     {
@@ -1102,7 +1192,9 @@
         "validAspect": null,
         "validSlopeAngle": null,
         "dangerRatingLevel": null,
-        "summary_incident": "Ereignis:\nKreuzkogel-Nord (2016-04-30)\n\nSeehoehe: 2600m, Ausrichtung: None, Hangneigung: None\u00b0\nWarnstufe: None, Groesse: None"
+        "summary_incident_title": "Kreuzkogel-Nord (2016-04-30)\n\n",
+        "summary_incident_location": "Seehoehe: 2600m, Ausrichtung: None, Hangneigung: None\u00b0\n",
+        "summary_incident_situation": "Warnstufe: None, Groesse: None"
       }
     },
     {
@@ -1126,7 +1218,9 @@
         "ElevationPosition": 2250,
         "validAspect": "E",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nPlattenkogel, H\u00fcttschlag (2016-02-06)\n\nSeehoehe: 2250m, Ausrichtung: E, Hangneigung: 35\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Plattenkogel, H\u00fcttschlag (2016-02-06)\n\n",
+        "summary_incident_location": "Seehoehe: 2250m, Ausrichtung: E, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1150,7 +1244,9 @@
         "validAspect": "N",
         "validSlopeAngle": 55,
         "dangerRatingLevel": null,
-        "summary_incident": "Ereignis:\nSonnblick-Schei\u00dfheislrinne (2016-05-22)\n\nSeehoehe: 2700m, Ausrichtung: N, Hangneigung: 55\u00b0\nWarnstufe: None, Groesse: None"
+        "summary_incident_title": "Sonnblick-Schei\u00dfheislrinne (2016-05-22)\n\n",
+        "summary_incident_location": "Seehoehe: 2700m, Ausrichtung: N, Hangneigung: 55\u00b0\n",
+        "summary_incident_situation": "Warnstufe: None, Groesse: None"
       }
     },
     {
@@ -1174,7 +1270,9 @@
         "ElevationPosition": 2100,
         "validAspect": "N",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nTaferlnock, Flachau (2016-03-05)\n\nSeehoehe: 2100m, Ausrichtung: N, Hangneigung: 35\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Taferlnock, Flachau (2016-03-05)\n\n",
+        "summary_incident_location": "Seehoehe: 2100m, Ausrichtung: N, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -1198,7 +1296,9 @@
         "ElevationPosition": 1960,
         "validAspect": "N",
         "validSlopeAngle": 36,
-        "summary_incident": "Ereignis:\nRauris (2016-02-26)\n\nSeehoehe: 1960m, Ausrichtung: N, Hangneigung: 36\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Rauris (2016-02-26)\n\n",
+        "summary_incident_location": "Seehoehe: 1960m, Ausrichtung: N, Hangneigung: 36\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1222,7 +1322,9 @@
         "ElevationPosition": 2100,
         "validAspect": "E",
         "validSlopeAngle": 45,
-        "summary_incident": "Ereignis:\nReissrachkopf (2023-02-26)\n\nSeehoehe: 2100m, Ausrichtung: E, Hangneigung: 45\u00b0\nWarnstufe: 2, Groesse: 1: small avalanche"
+        "summary_incident_title": "Reissrachkopf (2023-02-26)\n\n",
+        "summary_incident_location": "Seehoehe: 2100m, Ausrichtung: E, Hangneigung: 45\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 1: small avalanche"
       }
     },
     {
@@ -1246,7 +1348,9 @@
         "ElevationPosition": 2000,
         "validAspect": "S",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nObertauern/Seekareck/S\u00fcdh\u00e4nge (2017-02-25)\n\nSeehoehe: 2000m, Ausrichtung: S, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Obertauern/Seekareck/S\u00fcdh\u00e4nge (2017-02-25)\n\n",
+        "summary_incident_location": "Seehoehe: 2000m, Ausrichtung: S, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1270,7 +1374,9 @@
         "validAspect": "SW",
         "validSlopeAngle": 40,
         "dangerRatingLevel": null,
-        "summary_incident": "Ereignis:\nM\u00f6lltaler Gletscher Schareck (2019-05-07)\n\nSeehoehe: 2700m, Ausrichtung: SW, Hangneigung: 40\u00b0\nWarnstufe: None, Groesse: 2: medium avalanche"
+        "summary_incident_title": "M\u00f6lltaler Gletscher Schareck (2019-05-07)\n\n",
+        "summary_incident_location": "Seehoehe: 2700m, Ausrichtung: SW, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: None, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1294,7 +1400,9 @@
         "ElevationPosition": 2000,
         "validAspect": "S",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nWurmwand (2017-04-21)\n\nSeehoehe: 2000m, Ausrichtung: S, Hangneigung: 35\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Wurmwand (2017-04-21)\n\n",
+        "summary_incident_location": "Seehoehe: 2000m, Ausrichtung: S, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1318,7 +1426,9 @@
         "ElevationPosition": 2340,
         "validAspect": "SE",
         "validSlopeAngle": null,
-        "summary_incident": "Ereignis:\nMallnitzer Tauern (2021-01-11)\n\nSeehoehe: 2340m, Ausrichtung: SE, Hangneigung: None\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Mallnitzer Tauern (2021-01-11)\n\n",
+        "summary_incident_location": "Seehoehe: 2340m, Ausrichtung: SE, Hangneigung: None\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1342,7 +1452,9 @@
         "ElevationPosition": 2400,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nSportgastein/Eselkarrinne (2016-04-16)\n\nSeehoehe: 2400m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 1: small avalanche"
+        "summary_incident_title": "Sportgastein/Eselkarrinne (2016-04-16)\n\n",
+        "summary_incident_location": "Seehoehe: 2400m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 1: small avalanche"
       }
     },
     {
@@ -1366,7 +1478,9 @@
         "ElevationPosition": 1850,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nObertauern/Gamsleitenplatte (2017-02-25)\n\nSeehoehe: 1850m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Obertauern/Gamsleitenplatte (2017-02-25)\n\n",
+        "summary_incident_location": "Seehoehe: 1850m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1390,7 +1504,9 @@
         "ElevationPosition": 2400,
         "validAspect": "SW",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nSteir. Kalkspitze (Wei\u00dfpriach) (2018-02-25)\n\nSeehoehe: 2400m, Ausrichtung: SW, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 1: small avalanche"
+        "summary_incident_title": "Steir. Kalkspitze (Wei\u00dfpriach) (2018-02-25)\n\n",
+        "summary_incident_location": "Seehoehe: 2400m, Ausrichtung: SW, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 1: small avalanche"
       }
     },
     {
@@ -1414,7 +1530,9 @@
         "ElevationPosition": 2850,
         "validAspect": "NE",
         "validSlopeAngle": 45,
-        "summary_incident": "Ereignis:\nHoher Sonnblick (2023-04-10)\n\nSeehoehe: 2850m, Ausrichtung: NE, Hangneigung: 45\u00b0\nWarnstufe: 2, Groesse: 1: small avalanche"
+        "summary_incident_title": "Hoher Sonnblick (2023-04-10)\n\n",
+        "summary_incident_location": "Seehoehe: 2850m, Ausrichtung: NE, Hangneigung: 45\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 1: small avalanche"
       }
     },
     {
@@ -1438,7 +1556,9 @@
         "ElevationPosition": 2470,
         "validAspect": "SW",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nS\u00fcdwesthang unter Alter Hannoverh\u00fctte (2019-12-26)\n\nSeehoehe: 2470m, Ausrichtung: SW, Hangneigung: 35\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "S\u00fcdwesthang unter Alter Hannoverh\u00fctte (2019-12-26)\n\n",
+        "summary_incident_location": "Seehoehe: 2470m, Ausrichtung: SW, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -1462,7 +1582,9 @@
         "ElevationPosition": 2200,
         "validAspect": "E",
         "validSlopeAngle": 30,
-        "summary_incident": "Ereignis:\nFrauenkogel Gro\u00dfarl (2020-12-31)\n\nSeehoehe: 2200m, Ausrichtung: E, Hangneigung: 30\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Frauenkogel Gro\u00dfarl (2020-12-31)\n\n",
+        "summary_incident_location": "Seehoehe: 2200m, Ausrichtung: E, Hangneigung: 30\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1486,7 +1608,9 @@
         "ElevationPosition": 2300,
         "validAspect": "NW",
         "validSlopeAngle": 45,
-        "summary_incident": "Ereignis:\nTaferlnock, Flachau (2021-01-03)\n\nSeehoehe: 2300m, Ausrichtung: NW, Hangneigung: 45\u00b0\nWarnstufe: 3, Groesse: 1: small avalanche"
+        "summary_incident_title": "Taferlnock, Flachau (2021-01-03)\n\n",
+        "summary_incident_location": "Seehoehe: 2300m, Ausrichtung: NW, Hangneigung: 45\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 1: small avalanche"
       }
     },
     {
@@ -1510,7 +1634,9 @@
         "ElevationPosition": 2100,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nRadhaus (2017-02-09)\n\nSeehoehe: 2100m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Radhaus (2017-02-09)\n\n",
+        "summary_incident_location": "Seehoehe: 2100m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1534,7 +1660,9 @@
         "ElevationPosition": 2520,
         "validAspect": "SW",
         "validSlopeAngle": 38,
-        "summary_incident": "Ereignis:\nHang unter Alter Hanoverh\u00fctte (2019-12-26)\n\nSeehoehe: 2520m, Ausrichtung: SW, Hangneigung: 38\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Hang unter Alter Hanoverh\u00fctte (2019-12-26)\n\n",
+        "summary_incident_location": "Seehoehe: 2520m, Ausrichtung: SW, Hangneigung: 38\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1558,7 +1686,9 @@
         "ElevationPosition": 2420,
         "validAspect": "SE",
         "validSlopeAngle": 37,
-        "summary_incident": "Ereignis:\nGro\u00dfarl (2020-02-09)\n\nSeehoehe: 2420m, Ausrichtung: SE, Hangneigung: 37\u00b0\nWarnstufe: 2, Groesse: 1: small avalanche"
+        "summary_incident_title": "Gro\u00dfarl (2020-02-09)\n\n",
+        "summary_incident_location": "Seehoehe: 2420m, Ausrichtung: SE, Hangneigung: 37\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 1: small avalanche"
       }
     },
     {
@@ -1582,7 +1712,9 @@
         "ElevationPosition": 2100,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nH\u00fcttschlag (2023-01-29)\n\nSeehoehe: 2100m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "H\u00fcttschlag (2023-01-29)\n\n",
+        "summary_incident_location": "Seehoehe: 2100m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1606,7 +1738,9 @@
         "ElevationPosition": 2430,
         "validAspect": "SE",
         "validSlopeAngle": 30,
-        "summary_incident": "Ereignis:\nAlteck (2019-01-10)\n\nSeehoehe: 2430m, Ausrichtung: SE, Hangneigung: 30\u00b0\nWarnstufe: 4, Groesse: unknown"
+        "summary_incident_title": "Alteck (2019-01-10)\n\n",
+        "summary_incident_location": "Seehoehe: 2430m, Ausrichtung: SE, Hangneigung: 30\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 4, Groesse: unknown"
       }
     },
     {
@@ -1630,7 +1764,9 @@
         "ElevationPosition": 2250,
         "validAspect": "E",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nSeekarschneid (2021-01-20)\n\nSeehoehe: 2250m, Ausrichtung: E, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 3: large avalanche"
+        "summary_incident_title": "Seekarschneid (2021-01-20)\n\n",
+        "summary_incident_location": "Seehoehe: 2250m, Ausrichtung: E, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 3: large avalanche"
       }
     },
     {
@@ -1654,7 +1790,9 @@
         "ElevationPosition": 2250,
         "validAspect": "E",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nSeekarschneid (2021-01-20)\n\nSeehoehe: 2250m, Ausrichtung: E, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Seekarschneid (2021-01-20)\n\n",
+        "summary_incident_location": "Seehoehe: 2250m, Ausrichtung: E, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1678,7 +1816,9 @@
         "ElevationPosition": 2100,
         "validAspect": "E",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nTagweidegg, Zauchensee (2021-03-24)\n\nSeehoehe: 2100m, Ausrichtung: E, Hangneigung: 40\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Tagweidegg, Zauchensee (2021-03-24)\n\n",
+        "summary_incident_location": "Seehoehe: 2100m, Ausrichtung: E, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1702,7 +1842,9 @@
         "ElevationPosition": 2300,
         "validAspect": "N",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nHeidentempel (2021-03-26)\n\nSeehoehe: 2300m, Ausrichtung: N, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Heidentempel (2021-03-26)\n\n",
+        "summary_incident_location": "Seehoehe: 2300m, Ausrichtung: N, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1726,7 +1868,9 @@
         "ElevationPosition": 2530,
         "validAspect": "NE",
         "validSlopeAngle": 40,
-        "summary_incident": "Ereignis:\nSchareck - Gletscherauge (2023-02-28)\n\nSeehoehe: 2530m, Ausrichtung: NE, Hangneigung: 40\u00b0\nWarnstufe: 2, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Schareck - Gletscherauge (2023-02-28)\n\n",
+        "summary_incident_location": "Seehoehe: 2530m, Ausrichtung: NE, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 2, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1750,7 +1894,9 @@
         "ElevationPosition": 2790,
         "validAspect": "S",
         "validSlopeAngle": 42,
-        "summary_incident": "Ereignis:\nRauriser Sonnblick (2016-03-26)\n\nSeehoehe: 2790m, Ausrichtung: S, Hangneigung: 42\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Rauriser Sonnblick (2016-03-26)\n\n",
+        "summary_incident_location": "Seehoehe: 2790m, Ausrichtung: S, Hangneigung: 42\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1774,7 +1920,9 @@
         "validAspect": "NW",
         "validSlopeAngle": 40,
         "dangerRatingLevel": null,
-        "summary_incident": "Ereignis:\nWestlicher Daunkogel (2023-05-18)\n\nSeehoehe: 3200m, Ausrichtung: NW, Hangneigung: 40\u00b0\nWarnstufe: None, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Westlicher Daunkogel (2023-05-18)\n\n",
+        "summary_incident_location": "Seehoehe: 3200m, Ausrichtung: NW, Hangneigung: 40\u00b0\n",
+        "summary_incident_situation": "Warnstufe: None, Groesse: 2: medium avalanche"
       }
     },
     {
@@ -1798,7 +1946,9 @@
         "ElevationPosition": 2100,
         "validAspect": "SE",
         "validSlopeAngle": 35,
-        "summary_incident": "Ereignis:\nKesselspitze, Obertauern (2016-03-04)\n\nSeehoehe: 2100m, Ausrichtung: SE, Hangneigung: 35\u00b0\nWarnstufe: 3, Groesse: 2: medium avalanche"
+        "summary_incident_title": "Kesselspitze, Obertauern (2016-03-04)\n\n",
+        "summary_incident_location": "Seehoehe: 2100m, Ausrichtung: SE, Hangneigung: 35\u00b0\n",
+        "summary_incident_situation": "Warnstufe: 3, Groesse: 2: medium avalanche"
       }
     }
   ]
