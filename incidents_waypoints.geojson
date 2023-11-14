@@ -1,1 +1,4942 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[13.47404,47.23459]},"properties":{"dateTimeReport":"2021-01-12T16:48:59+01:00","name":"Radstätter Tauern","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avLength":10,"avWidth":25,"avBreakHeight":10,"avType":"slab","avSize":"1: small avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.53972,47.27806]},"properties":{"dateTimeReport":"2023-01-15T16:18:48+01:00","name":"Fuchsloch","comment":null,"dangerRatingId":1,"dangerRatingLevel":1,"dangerRatingDescription":"low","dangerProblem":"wind-drifted snow","avLength":40,"avWidth":30,"avBreakHeight":30,"avType":"slab","avSize":"1: small avalanche","avRelease":"artificial","avHumidity":"unknown","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.53902,47.26925]},"properties":{"dateTimeReport":"2021-01-28T20:29:45+01:00","name":"Obertauern, Seekarschneid","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"old snow","avLength":300,"avWidth":100,"avBreakHeight":80,"avType":"slab","avSize":"3: large avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.75876,47.26695]},"properties":{"dateTimeReport":"2018-02-27T15:30:46+01:00","name":"Hochgolling (Göriach)","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":null,"avLength":200,"avWidth":20,"avBreakHeight":100,"avType":"slab","avSize":"2: medium avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.54301,47.24274]},"properties":{"dateTimeReport":"2018-02-17T18:20:50+01:00","name":"Obertauern, Zehnerkar, Breiter Hang","comment":null,"dangerRatingId":2,"dangerRatingLevel":2,"dangerRatingDescription":"moderate","dangerProblem":null,"avLength":35,"avWidth":20,"avBreakHeight":20,"avType":"slab","avSize":"1: small avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5445,47.1834]},"properties":{"dateTimeReport":"2021-12-04T16:47:38+01:00","name":"Lackenspitze / Tweng","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avLength":500,"avWidth":200,"avBreakHeight":30,"avType":"slab","avSize":"3: large avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.44961,47.23019]},"properties":{"dateTimeReport":"2023-01-15T18:25:34+01:00","name":"Taferlnock","comment":null,"dangerRatingId":1,"dangerRatingLevel":1,"dangerRatingDescription":"low","dangerProblem":"wind-drifted snow","avLength":50,"avWidth":40,"avBreakHeight":30,"avType":"slab","avSize":"1: small avalanche","avRelease":"artificial","avHumidity":"unknown","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.45254,47.22593]},"properties":{"dateTimeReport":"2022-12-08T15:55:00+01:00","name":"Taferlnock","comment":null,"dangerRatingId":1,"dangerRatingLevel":1,"dangerRatingDescription":"low","dangerProblem":"wind-drifted snow","avLength":120,"avWidth":70,"avBreakHeight":30,"avType":"slab","avSize":"2: medium avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.66176,47.27456]},"properties":{"dateTimeReport":"2021-02-07T15:17:34+01:00","name":"Engelkarspitze","comment":null,"dangerRatingId":2,"dangerRatingLevel":2,"dangerRatingDescription":"moderate","dangerProblem":"old snow","avLength":200,"avWidth":100,"avBreakHeight":50,"avType":"slab","avSize":"2: medium avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.52941,47.23934]},"properties":{"dateTimeReport":"2017-12-29T17:18:46+01:00","name":"Obertauern","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":null,"avLength":300,"avWidth":100,"avBreakHeight":50,"avType":"slab","avSize":"3: large avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5335,47.24187]},"properties":{"dateTimeReport":"2021-01-18T15:27:08+01:00","name":"Obertauern, Brettsteinalm","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avLength":100,"avWidth":100,"avBreakHeight":1,"avType":"slab","avSize":"3: large avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5337,47.26494]},"properties":{"dateTimeReport":"2017-11-28T20:18:09+01:00","name":"Obertauern","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":null,"avLength":200,"avBreakHeight":90,"avType":"gliding","avSize":"3: large avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.62949,47.12884]},"properties":{"dateTimeReport":"2023-02-07T16:41:14+01:00","name":"Speiereck","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avLength":120,"avWidth":80,"avBreakHeight":150,"avType":"slab","avSize":"2: medium avalanche","avRelease":"unknown","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.55799,47.22882]},"properties":{"dateTimeReport":"2021-02-13T16:25:19+01:00","name":"Große Kesselspitze","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avLength":20,"avWidth":10,"avBreakHeight":20,"avType":"slab","avSize":"1: small avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.42891,47.20733]},"properties":{"dateTimeReport":"2021-01-18T15:29:24+01:00","name":"Zederhaus, Großkessel","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avType":"unknown","avSize":"unknown","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.62754,47.13616]},"properties":{"dateTimeReport":"2023-01-23T19:25:58+01:00","name":"Zallingraben","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"old snow","avLength":450,"avWidth":30,"avBreakHeight":50,"avType":"slab","avSize":"2: medium avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.43741,47.2748]},"properties":{"dateTimeReport":"2016-01-12T13:48:34+01:00","name":"Zauchensee, Tagweidegg 1","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":null,"avLength":100,"avWidth":100,"avBreakHeight":50,"avType":"slab","avSize":"2: medium avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.45691,47.19719]},"properties":{"dateTimeReport":"2021-01-18T15:55:28+01:00","name":"Zederhaus, Kleiner Kesselbach","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avType":"slab","avSize":"unknown","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.53561,47.26967]},"properties":{"dateTimeReport":"2016-02-13T20:36:16+01:00","name":"Schafkar, Untertauern","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":null,"avLength":300,"avWidth":50,"avBreakHeight":150,"avType":"slab","avSize":"2: medium avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.64792,47.3366]},"properties":{"dateTimeReport":"2015-02-23T18:07:54+01:00","name":"Guschen","comment":null,"dangerRatingId":2,"dangerRatingLevel":2,"dangerRatingDescription":"moderate","dangerProblem":null,"avLength":400,"avWidth":60,"avBreakHeight":20,"avType":"slab","avSize":"3: large avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.53303,47.26433]},"properties":{"dateTimeReport":"2017-12-10T09:06:59+01:00","name":"Seekareck, Obertauern","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":null,"avLength":50,"avWidth":100,"avBreakHeight":20,"avType":"slab","avSize":"2: medium avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.53681,47.24672]},"properties":{"dateTimeReport":"2016-02-13T20:45:13+01:00","name":"Lärchboden, Untertauern","comment":null,"dangerRatingId":2,"dangerRatingLevel":2,"dangerRatingDescription":"moderate","dangerProblem":null,"avLength":300,"avWidth":5,"avBreakHeight":25,"avType":"slab","avSize":"1: small avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4527,47.22538]},"properties":{"dateTimeReport":"2016-03-05T20:07:46+01:00","name":"Taferlnock, Flachau","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":null,"avLength":750,"avWidth":150,"avBreakHeight":60,"avType":"slab","avSize":"3: large avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.53715,47.26222]},"properties":{"dateTimeReport":"2017-02-26T16:54:16+01:00","name":"Obertauern/Seekareck/Südhänge","comment":null,"dangerRatingId":2,"dangerRatingLevel":2,"dangerRatingDescription":"moderate","dangerProblem":null,"avLength":150,"avWidth":45,"avBreakHeight":25,"avType":"slab","avSize":"2: medium avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.56469,47.26932]},"properties":{"dateTimeReport":"2017-04-21T12:34:26+02:00","name":"Wurmwand","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":null,"avLength":150,"avWidth":50,"avBreakHeight":160,"avType":"slab","avSize":"2: medium avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.54757,47.24457]},"properties":{"dateTimeReport":"2017-02-26T16:58:02+01:00","name":"Obertauern/Gamsleitenplatte","comment":null,"dangerRatingId":2,"dangerRatingLevel":2,"dangerRatingDescription":"moderate","dangerProblem":null,"avLength":25,"avWidth":20,"avBreakHeight":25,"avType":"slab","avSize":"2: medium avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.62228,47.28131]},"properties":{"dateTimeReport":"2018-02-27T18:49:22+01:00","name":"Steir. Kalkspitze (Weißpriach)","comment":null,"dangerRatingId":2,"dangerRatingLevel":2,"dangerRatingDescription":"moderate","dangerProblem":null,"avLength":70,"avWidth":20,"avBreakHeight":40,"avType":"slab","avSize":"1: small avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4501,47.21947]},"properties":{"dateTimeReport":"2021-01-04T13:55:12+01:00","name":"Taferlnock, Flachau","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avLength":150,"avWidth":30,"avType":"slab","avSize":"1: small avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.53554,47.26984]},"properties":{"dateTimeReport":"2021-01-20T14:31:00+01:00","name":"Seekarschneid","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avLength":450,"avWidth":100,"avBreakHeight":150,"avType":"slab","avSize":"3: large avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.53584,47.26871]},"properties":{"dateTimeReport":"2021-01-20T14:40:51+01:00","name":"Seekarschneid","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avLength":400,"avWidth":100,"avBreakHeight":70,"avType":"slab","avSize":"2: medium avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.43495,47.2775]},"properties":{"dateTimeReport":"2021-03-24T15:13:19+01:00","name":"Tagweidegg, Zauchensee","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":"wind-drifted snow","avLength":400,"avWidth":80,"avBreakHeight":150,"avType":"slab","avSize":"2: medium avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[11.08941,46.98933]},"properties":{"dateTimeReport":"2023-05-31T13:53:41+02:00","name":"Westlicher Daunkogel","comment":null,"dangerRatingId":7,"dangerRatingDescription":"not assigned","dangerProblem":"old snow","avWidth":200,"avBreakHeight":50,"avType":"slab","avSize":"2: medium avalanche","avRelease":"artificial","avHumidity":"dry","validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.55723,47.2367]},"properties":{"dateTimeReport":"2016-03-10T14:43:49+01:00","name":"Kesselspitze, Obertauern","comment":null,"dangerRatingId":3,"dangerRatingLevel":3,"dangerRatingDescription":"considerable","dangerProblem":null,"avLength":100,"avWidth":40,"avBreakHeight":30,"avType":"slab","avSize":"2: medium avalanche","avRelease":null,"avHumidity":null,"validTime":null}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4585982,47.2271222]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.469692,47.2272789]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5826513,47.2132172]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5733492,47.2224226]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5602275,47.2302257]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4514096,47.2301383]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4445995,47.2307576]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4396737,47.2240859]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4533161,47.228]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4516575,47.2226795]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4585982,47.2271222]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4585982,47.2271222]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.477646,47.2230318]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4568667,47.2356391]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4647551,47.2365222]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4686977,47.2360868]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4691971,47.2310021]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4780587,47.2470766]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4904703,47.2344861]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4993927,47.23174]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5143459,47.2501571]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5137637,47.2469368]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5133614,47.2435117]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5064327,47.235685]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5088844,47.2306424]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5741769,47.2564571]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5753565,47.2602851]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.6078546,47.2788832]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5741769,47.2564571]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5753565,47.2602851]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5461925,47.2774818]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5758536,47.237798]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.581554,47.2343641]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5900117,47.2308714]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5782546,47.2510176]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5811031,47.2524588]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4695543,47.2667202]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5608311,47.244518]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5571865,47.2388703]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5758536,47.237798]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.581554,47.2343641]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5900299,47.2249959]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5900112,47.2217218]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5984252,47.2192951]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5305159,47.2668661]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4349853,47.2502925]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4394125,47.2501644]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4455509,47.2529457]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5466194,47.2503019]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5425382,47.2426663]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5328123,47.2381453]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5332761,47.2353243]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5143459,47.2501571]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5116128,47.2451561]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.505502,47.242454]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5009788,47.241655]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4984357,47.2366653]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5626026,47.2348178]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5612087,47.2355503]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.553937,47.2359258]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4780587,47.2470766]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4883792,47.23042]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4890657,47.2284727]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5826513,47.2132172]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5143459,47.2501571]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5137637,47.2469368]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5133614,47.2435117]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5063869,47.2358705]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5029755,47.2336163]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5143459,47.2501571]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5137637,47.2469368]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5133614,47.2435117]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5197261,47.2374839]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5172278,47.2329237]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5741769,47.2564571]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5753565,47.2602851]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.6078546,47.2788832]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.474392,47.226493]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5741769,47.2564571]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5753565,47.2602851]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5423283,47.2679565]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5372728,47.2710133]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5494934,47.2684003]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.5458092,47.2726119]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4631557,47.2586772]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4568667,47.2356391]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4647551,47.2365222]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4686977,47.2360868]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4744053,47.2342387]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4349853,47.2502925]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4394125,47.2501644]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4488486,47.2510808]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4564642,47.2515144]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4513961,47.2299586]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.4475689,47.2272413]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.446746,47.2250359]},"properties":{}},{"type":"Feature","geometry":{"type":"Point","coordinates":[13.449523,47.2206655]},"properties":{}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.47404,
+          47.23459
+        ]
+      },
+      "properties": {
+        "name": "Radst\u00e4tter Tauern",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 10.0,
+        "avWidth": 25.0,
+        "avBreakHeight": 10.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2020-12-31T11:28:00+01:00",
+        "validAspect": "NW",
+        "validSlopeAngle": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.35315,
+          47.26214
+        ]
+      },
+      "properties": {
+        "name": "Ennskraxen Steckenriedel",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 300.0,
+        "avWidth": 180.0,
+        "avBreakHeight": 100.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2019-12-28T11:45:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.09996,
+          47.04877
+        ]
+      },
+      "properties": {
+        "name": "Wei\u00dfenbachtal",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 25.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2017-03-11T13:30:00+01:00",
+        "validAspect": "S",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03277,
+          47.25076
+        ]
+      },
+      "properties": {
+        "name": "Mitterk\u00f6gerl / Teufenbachtal",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 300.0,
+        "avWidth": 25.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2021-01-30T12:00:00+01:00",
+        "validAspect": "NW",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1076,
+          47.001
+        ]
+      },
+      "properties": {
+        "name": "Jamnigalm",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 60.0,
+        "avBreakHeight": 230.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2018-03-22T11:00:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.25967,
+          47.0234
+        ]
+      },
+      "properties": {
+        "name": "Gartenboden",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 60.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 15.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2021-04-13T10:40:00+02:00",
+        "validAspect": "SW",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53972,
+          47.27806
+        ]
+      },
+      "properties": {
+        "name": "Fuchsloch",
+        "comment": null,
+        "dangerRatingLevel": 1,
+        "dangerRatingDescription": "low",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 40.0,
+        "avWidth": 30.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2023-01-15T12:45:00+01:00",
+        "validAspect": "NW",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.01502,
+          47.2551
+        ]
+      },
+      "properties": {
+        "name": "Katzenkopf",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 70.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2021-01-19T11:15:00+01:00",
+        "validAspect": "NW",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98973,
+          47.06445
+        ]
+      },
+      "properties": {
+        "name": "Rauris-Kolm Saigurn - Hoher Sonnblick",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 250.0,
+        "avWidth": 30.0,
+        "avBreakHeight": 40.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2021-04-09T08:00:00+02:00",
+        "validAspect": "NE",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.19621,
+          47.03681
+        ]
+      },
+      "properties": {
+        "name": "Lucket\u00f6rl S\u00fcd",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 700.0,
+        "avWidth": 150.0,
+        "avBreakHeight": 150.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2019-12-26T10:30:00+01:00",
+        "validAspect": "S",
+        "validSlopeAngle": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53902,
+          47.26925
+        ]
+      },
+      "properties": {
+        "name": "Obertauern, Seekarschneid",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "old snow",
+        "avLength": 300.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 80.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2021-01-20T11:05:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0124,
+          47.04031
+        ]
+      },
+      "properties": {
+        "name": "Scharek M\u00f6lltaler Gletscher",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 300.0,
+        "avWidth": 40.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2017-12-29T10:20:00+01:00",
+        "validAspect": "SW",
+        "validSlopeAngle": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.75876,
+          47.26695
+        ]
+      },
+      "properties": {
+        "name": "Hochgolling (G\u00f6riach)",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 200.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 100.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2018-02-24T14:00:00+01:00",
+        "validAspect": "NW",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54301,
+          47.24274
+        ]
+      },
+      "properties": {
+        "name": "Obertauern, Zehnerkar, Breiter Hang",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 35.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2018-02-17T14:30:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5445,
+          47.1834
+        ]
+      },
+      "properties": {
+        "name": "Lackenspitze / Tweng",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 500.0,
+        "avWidth": 200.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2021-12-04T13:30:00+01:00",
+        "validAspect": "NE",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.44961,
+          47.23019
+        ]
+      },
+      "properties": {
+        "name": "Taferlnock",
+        "comment": null,
+        "dangerRatingLevel": 1,
+        "dangerRatingDescription": "low",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 50.0,
+        "avWidth": 40.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2023-01-15T11:00:00+01:00",
+        "validAspect": "NE",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18095,
+          47.01626
+        ]
+      },
+      "properties": {
+        "name": "Mallnitz - Krumpe Tal",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avType": "unknown",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2019-01-15T12:40:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45254,
+          47.22593
+        ]
+      },
+      "properties": {
+        "name": "Taferlnock",
+        "comment": null,
+        "dangerRatingLevel": 1,
+        "dangerRatingDescription": "low",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 120.0,
+        "avWidth": 70.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2022-12-08T12:00:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98998,
+          47.05722
+        ]
+      },
+      "properties": {
+        "name": "Sonnblick, Melcherb\u00f6den (Rauris)",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 60.0,
+        "avBreakHeight": 40.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2018-02-17T10:00:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.16193,
+          47.16012
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfarl",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 600.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2017-01-22T14:45:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.66176,
+          47.27456
+        ]
+      },
+      "properties": {
+        "name": "Engelkarspitze",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "old snow",
+        "avLength": 200.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2021-02-06T12:00:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.00858,
+          47.06682
+        ]
+      },
+      "properties": {
+        "name": "Sonnblick, Maschingraben (Rauris)",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 228.0,
+        "avWidth": 90.0,
+        "avBreakHeight": 100.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2018-01-09T21:18:00+01:00",
+        "validAspect": "NE",
+        "validSlopeAngle": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26741,
+          47.20755
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfarl",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 80.0,
+        "avWidth": 50.0,
+        "avBreakHeight": 120.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2022-01-26T11:44:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.52941,
+          47.23934
+        ]
+      },
+      "properties": {
+        "name": "Obertauern",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 300.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2017-12-29T13:45:00+01:00",
+        "validAspect": "NW",
+        "validSlopeAngle": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5335,
+          47.24187
+        ]
+      },
+      "properties": {
+        "name": "Obertauern, Brettsteinalm",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 100.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 1.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2021-01-15T13:50:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8528,
+          47.1761
+        ]
+      },
+      "properties": {
+        "name": "Bad Fusch",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 300.0,
+        "avWidth": 40.0,
+        "avBreakHeight": 40.0,
+        "avType": "slab",
+        "avSize": "unknown",
+        "timePosition": "2019-03-17T14:45:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97776,
+          47.04139
+        ]
+      },
+      "properties": {
+        "name": "Sonnblick/Goldbergkees",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avType": "slab",
+        "avSize": "unknown",
+        "timePosition": "2021-02-13T16:30:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5337,
+          47.26494
+        ]
+      },
+      "properties": {
+        "name": "Obertauern",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 200.0,
+        "avBreakHeight": 90.0,
+        "avType": "gliding",
+        "avSize": "3: large avalanche",
+        "timePosition": "2017-11-28T09:15:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.97219,
+          47.04384
+        ]
+      },
+      "properties": {
+        "name": "Rauris",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 200.0,
+        "avWidth": 15.0,
+        "avBreakHeight": 100.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2022-02-27T14:00:00+01:00",
+        "validAspect": "NE",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62949,
+          47.12884
+        ]
+      },
+      "properties": {
+        "name": "Speiereck",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 120.0,
+        "avWidth": 80.0,
+        "avBreakHeight": 150.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2023-02-06T10:30:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55799,
+          47.22882
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfe Kesselspitze",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 20.0,
+        "avWidth": 10.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2021-02-13T12:30:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.14199,
+          47.06026
+        ]
+      },
+      "properties": {
+        "name": "Bad Gastein, H\u00f6rkar",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 60.0,
+        "avWidth": 40.0,
+        "avBreakHeight": 40.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2019-02-07T14:40:00+01:00",
+        "validAspect": "W",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.42891,
+          47.20733
+        ]
+      },
+      "properties": {
+        "name": "Zederhaus, Gro\u00dfkessel",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avType": "unknown",
+        "avSize": "unknown",
+        "timePosition": "2021-01-15T12:40:00+01:00",
+        "validAspect": null,
+        "validSlopeAngle": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62754,
+          47.13616
+        ]
+      },
+      "properties": {
+        "name": "Zallingraben",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "old snow",
+        "avLength": 450.0,
+        "avWidth": 30.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2023-01-22T11:00:00+01:00",
+        "validAspect": "NE",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20582,
+          47.12673
+        ]
+      },
+      "properties": {
+        "name": "H\u00fcttschlag",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "old snow",
+        "avLength": 150.0,
+        "avWidth": 80.0,
+        "avBreakHeight": 100.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2023-01-29T12:30:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43741,
+          47.2748
+        ]
+      },
+      "properties": {
+        "name": "Zauchensee, Tagweidegg 1",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2016-01-12T11:45:00+01:00",
+        "validAspect": "NE",
+        "validSlopeAngle": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03419,
+          47.08791
+        ]
+      },
+      "properties": {
+        "name": "Silberpfennig",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avType": "slab",
+        "avSize": "unknown",
+        "timePosition": "2021-02-13T14:15:00+01:00",
+        "validAspect": null,
+        "validSlopeAngle": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.06417,
+          47.23377
+        ]
+      },
+      "properties": {
+        "name": "Dorfgastein, Tagkopf",
+        "comment": null,
+        "dangerRatingDescription": null,
+        "dangerProblem": null,
+        "avType": "slab",
+        "avSize": "unknown",
+        "timePosition": "2021-01-16T16:34:00+01:00",
+        "validAspect": null,
+        "validSlopeAngle": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.12785,
+          47.06615
+        ]
+      },
+      "properties": {
+        "name": "Anlauftal, Eisarena ",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avBreakHeight": 15.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2017-12-10T09:00:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.45691,
+          47.19719
+        ]
+      },
+      "properties": {
+        "name": "Zederhaus, Kleiner Kesselbach",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avType": "slab",
+        "avSize": "unknown",
+        "timePosition": "2021-01-16T14:40:00+01:00",
+        "validAspect": null,
+        "validSlopeAngle": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03927,
+          47.03622
+        ]
+      },
+      "properties": {
+        "name": "Schareck Schlapperebenkees",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 300.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 80.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2018-01-16T11:00:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53561,
+          47.26967
+        ]
+      },
+      "properties": {
+        "name": "Schafkar, Untertauern",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 300.0,
+        "avWidth": 50.0,
+        "avBreakHeight": 150.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2016-02-06T12:00:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.64792,
+          47.3366
+        ]
+      },
+      "properties": {
+        "name": "Guschen",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 400.0,
+        "avWidth": 60.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2015-02-22T15:05:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53303,
+          47.26433
+        ]
+      },
+      "properties": {
+        "name": "Seekareck, Obertauern",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 50.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2017-12-06T14:30:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53681,
+          47.24672
+        ]
+      },
+      "properties": {
+        "name": "L\u00e4rchboden, Untertauern",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 300.0,
+        "avWidth": 5.0,
+        "avBreakHeight": 25.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2016-02-13T11:45:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.10096,
+          47.05585
+        ]
+      },
+      "properties": {
+        "name": "Kreuzkogel-Nord",
+        "comment": null,
+        "dangerRatingDescription": null,
+        "dangerProblem": null,
+        "avType": "slab",
+        "avSize": null,
+        "timePosition": "2016-04-30T09:00:00+02:00",
+        "validAspect": null,
+        "validSlopeAngle": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.26198,
+          47.12831
+        ]
+      },
+      "properties": {
+        "name": "Plattenkogel, H\u00fcttschlag",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 200.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 135.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2016-02-06T11:00:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.95522,
+          47.05667
+        ]
+      },
+      "properties": {
+        "name": "Sonnblick-Schei\u00dfheislrinne",
+        "comment": null,
+        "dangerRatingDescription": null,
+        "dangerProblem": null,
+        "avType": "loose",
+        "avSize": null,
+        "timePosition": "2016-05-22T07:40:00+02:00",
+        "validAspect": "N",
+        "validSlopeAngle": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4527,
+          47.22538
+        ]
+      },
+      "properties": {
+        "name": "Taferlnock, Flachau",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 750.0,
+        "avWidth": 150.0,
+        "avBreakHeight": 60.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2016-03-05T12:45:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.98982,
+          47.06043
+        ]
+      },
+      "properties": {
+        "name": "Rauris",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 40.0,
+        "avBreakHeight": 12.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2016-02-26T09:40:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.94595,
+          47.22079
+        ]
+      },
+      "properties": {
+        "name": "Reissrachkopf",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 100.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2023-02-26T12:00:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53715,
+          47.26222
+        ]
+      },
+      "properties": {
+        "name": "Obertauern/Seekareck/S\u00fcdh\u00e4nge",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 150.0,
+        "avWidth": 45.0,
+        "avBreakHeight": 25.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2017-02-25T08:50:00+01:00",
+        "validAspect": "S",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0115,
+          47.03833
+        ]
+      },
+      "properties": {
+        "name": "M\u00f6lltaler Gletscher Schareck",
+        "comment": null,
+        "dangerRatingDescription": "not assigned",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 90.0,
+        "avWidth": 40.0,
+        "avBreakHeight": 40.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2019-05-07T11:00:00+02:00",
+        "validAspect": "SW",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.56469,
+          47.26932
+        ]
+      },
+      "properties": {
+        "name": "Wurmwand",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 150.0,
+        "avWidth": 50.0,
+        "avBreakHeight": 160.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2017-04-21T11:00:00+02:00",
+        "validAspect": "S",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08569,
+          47.02422
+        ]
+      },
+      "properties": {
+        "name": "Mallnitzer Tauern",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2021-01-11T00:00:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.08259,
+          47.02801
+        ]
+      },
+      "properties": {
+        "name": "Sportgastein/Eselkarrinne",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 15.0,
+        "avBreakHeight": 15.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2016-04-16T09:30:00+02:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54757,
+          47.24457
+        ]
+      },
+      "properties": {
+        "name": "Obertauern/Gamsleitenplatte",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 25.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 25.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2017-02-25T11:30:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.62228,
+          47.28131
+        ]
+      },
+      "properties": {
+        "name": "Steir. Kalkspitze (Wei\u00dfpriach)",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": null,
+        "avLength": 70.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 40.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2018-02-25T13:45:00+01:00",
+        "validAspect": "SW",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.95999,
+          47.05512
+        ]
+      },
+      "properties": {
+        "name": "Hoher Sonnblick",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 800.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 20.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2023-04-10T10:20:00+02:00",
+        "validAspect": "NE",
+        "validSlopeAngle": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21393,
+          47.03739
+        ]
+      },
+      "properties": {
+        "name": "S\u00fcdwesthang unter Alter Hannoverh\u00fctte",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 400.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 120.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2019-12-26T09:55:00+01:00",
+        "validAspect": "SW",
+        "validSlopeAngle": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.17055,
+          47.17713
+        ]
+      },
+      "properties": {
+        "name": "Frauenkogel Gro\u00dfarl",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 100.0,
+        "avWidth": 70.0,
+        "avBreakHeight": 60.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2020-12-31T14:00:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4501,
+          47.21947
+        ]
+      },
+      "properties": {
+        "name": "Taferlnock, Flachau",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 150.0,
+        "avWidth": 30.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2021-01-03T13:00:00+01:00",
+        "validAspect": "NW",
+        "validSlopeAngle": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9871,
+          47.05696
+        ]
+      },
+      "properties": {
+        "name": "Radhaus",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2017-02-09T14:00:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.21418,
+          47.0388
+        ]
+      },
+      "properties": {
+        "name": "Hang unter Alter Hanoverh\u00fctte",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 150.0,
+        "avWidth": 80.0,
+        "avBreakHeight": 120.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2019-12-26T10:05:00+01:00",
+        "validAspect": "SW",
+        "validSlopeAngle": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.15903,
+          47.16058
+        ]
+      },
+      "properties": {
+        "name": "Gro\u00dfarl",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 50.0,
+        "avWidth": 70.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "1: small avalanche",
+        "timePosition": "2020-02-09T13:10:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20582,
+          47.12673
+        ]
+      },
+      "properties": {
+        "name": "H\u00fcttschlag",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "old snow",
+        "avLength": 150.0,
+        "avWidth": 80.0,
+        "avBreakHeight": 100.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2023-01-29T12:30:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9956,
+          47.03255
+        ]
+      },
+      "properties": {
+        "name": "Alteck",
+        "comment": null,
+        "dangerRatingLevel": 4,
+        "dangerRatingDescription": "high",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 700.0,
+        "avType": "slab",
+        "avSize": "unknown",
+        "timePosition": "2019-01-10T12:00:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53554,
+          47.26984
+        ]
+      },
+      "properties": {
+        "name": "Seekarschneid",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 450.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 150.0,
+        "avType": "slab",
+        "avSize": "3: large avalanche",
+        "timePosition": "2021-01-20T10:40:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.53584,
+          47.26871
+        ]
+      },
+      "properties": {
+        "name": "Seekarschneid",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 400.0,
+        "avWidth": 100.0,
+        "avBreakHeight": 70.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2021-01-20T11:00:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43495,
+          47.2775
+        ]
+      },
+      "properties": {
+        "name": "Tagweidegg, Zauchensee",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 400.0,
+        "avWidth": 80.0,
+        "avBreakHeight": 150.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2021-03-24T11:45:00+01:00",
+        "validAspect": "E",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.20852,
+          47.12647
+        ]
+      },
+      "properties": {
+        "name": "Heidentempel",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "old snow",
+        "avLength": 250.0,
+        "avWidth": 50.0,
+        "avBreakHeight": 50.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2021-03-26T13:00:00+01:00",
+        "validAspect": "N",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.03444,
+          47.03684
+        ]
+      },
+      "properties": {
+        "name": "Schareck - Gletscherauge",
+        "comment": null,
+        "dangerRatingLevel": 2,
+        "dangerRatingDescription": "moderate",
+        "dangerProblem": "wind-drifted snow",
+        "avLength": 100.0,
+        "avWidth": 20.0,
+        "avBreakHeight": 100.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2023-02-28T12:00:00+01:00",
+        "validAspect": "NE",
+        "validSlopeAngle": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.96552,
+          47.04928
+        ]
+      },
+      "properties": {
+        "name": "Rauriser Sonnblick",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 250.0,
+        "avWidth": 50.0,
+        "avBreakHeight": 40.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2016-03-26T13:00:00+01:00",
+        "validAspect": "S",
+        "validSlopeAngle": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.55723,
+          47.2367
+        ]
+      },
+      "properties": {
+        "name": "Kesselspitze, Obertauern",
+        "comment": null,
+        "dangerRatingLevel": 3,
+        "dangerRatingDescription": "considerable",
+        "dangerProblem": null,
+        "avLength": 100.0,
+        "avWidth": 40.0,
+        "avBreakHeight": 30.0,
+        "avType": "slab",
+        "avSize": "2: medium avalanche",
+        "timePosition": "2016-03-04T12:00:00+01:00",
+        "validAspect": "SE",
+        "validSlopeAngle": 35
+      }
+    },
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4585982,
+          47.2271222
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.469692,
+          47.2272789
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2201285,
+          47.0430676
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2268304,
+          47.0422451
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2433858,
+          47.0476616
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5826513,
+          47.2132172
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5733492,
+          47.2224226
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5602275,
+          47.2302257
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1237497,
+          47.0025224
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1171472,
+          47.0218416
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1254017,
+          47.0250876
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4514096,
+          47.2301383
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4445995,
+          47.2307576
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4396737,
+          47.2240859
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4533161,
+          47.228
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4516575,
+          47.2226795
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4585982,
+          47.2271222
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4585982,
+          47.2271222
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.477646,
+          47.2230318
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4568667,
+          47.2356391
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4647551,
+          47.2365222
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4686977,
+          47.2360868
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4691971,
+          47.2310021
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4780587,
+          47.2470766
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4904703,
+          47.2344861
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4993927,
+          47.23174
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5143459,
+          47.2501571
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5137637,
+          47.2469368
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5133614,
+          47.2435117
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5064327,
+          47.235685
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5088844,
+          47.2306424
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1237497,
+          47.0025224
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1080999,
+          47.0007836
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.084176,
+          47.0034274
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0739533,
+          47.0063558
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0726987,
+          47.0130182
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5741769,
+          47.2564571
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5753565,
+          47.2602851
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6078546,
+          47.2788832
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0220693,
+          47.0829016
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0260903,
+          47.083564
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0309402,
+          47.0856676
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0364731,
+          47.0890262
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.037841,
+          47.0909257
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9882613,
+          47.0633034
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9856777,
+          47.0579927
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9762988,
+          47.0475915
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9719862,
+          47.0492379
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.958672,
+          47.0444268
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9561271,
+          47.0464268
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1702113,
+          47.2595484
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1616981,
+          47.2624738
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5741769,
+          47.2564571
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5753565,
+          47.2602851
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1614286,
+          46.9831912
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.158569,
+          46.979893
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5461925,
+          47.2774818
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9721642,
+          47.0677649
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9529524,
+          47.0680992
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9465318,
+          47.0730297
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1259221,
+          47.1922044
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1298582,
+          47.1877364
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9532571,
+          46.9961688
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9684147,
+          46.9962363
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9694003,
+          46.9986628
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1803478,
+          47.2760131
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.176282,
+          47.2755507
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.169348,
+          47.2722095
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1565048,
+          47.2690592
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0123758,
+          47.1627159
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0243097,
+          47.1496303
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5758536,
+          47.237798
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.581554,
+          47.2343641
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5900117,
+          47.2308714
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0721805,
+          47.0351839
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.086937,
+          47.029457
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0811454,
+          47.0224818
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0747322,
+          47.0165847
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0725161,
+          47.0149646
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0211969,
+          47.1164963
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5782546,
+          47.2510176
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5811031,
+          47.2524588
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4695543,
+          47.2667202
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9882613,
+          47.0633034
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9879703,
+          47.0607687
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9950001,
+          47.04863
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0038317,
+          47.041698
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0113822,
+          47.0394614
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0181896,
+          47.1804726
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0232862,
+          47.1798628
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0289627,
+          47.178601
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0139734,
+          47.065958
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5608311,
+          47.244518
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5571865,
+          47.2388703
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5758536,
+          47.237798
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.581554,
+          47.2343641
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5900299,
+          47.2249959
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5900112,
+          47.2217218
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5984252,
+          47.2192951
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1242789,
+          47.0362578
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0229212,
+          47.1495806
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1237497,
+          47.0025224
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1080999,
+          47.0007836
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.084176,
+          47.0034274
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0739533,
+          47.0063558
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1985811,
+          47.056815
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2353794,
+          47.052135
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2384957,
+          47.0494672
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2440183,
+          47.0477607
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5305159,
+          47.2668661
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4349853,
+          47.2502925
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4394125,
+          47.2501644
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4455509,
+          47.2529457
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5466194,
+          47.2503019
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5425382,
+          47.2426663
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5328123,
+          47.2381453
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5332761,
+          47.2353243
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0347957,
+          47.1994256
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0386788,
+          47.1897473
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9882613,
+          47.0633034
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9879703,
+          47.0607687
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9950001,
+          47.04863
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0021151,
+          47.0423381
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0073681,
+          47.0886974
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0223266,
+          47.083861
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0309877,
+          47.0856894
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.036586,
+          47.0892294
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0378929,
+          47.0909089
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0539798,
+          47.0656911
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0556988,
+          47.0733156
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0299256,
+          47.0829297
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0327837,
+          47.0863133
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.036548,
+          47.089161
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0380235,
+          47.0908666
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5143459,
+          47.2501571
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5116128,
+          47.2451561
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.505502,
+          47.242454
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5009788,
+          47.241655
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4984357,
+          47.2366653
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5626026,
+          47.2348178
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5612087,
+          47.2355503
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.553937,
+          47.2359258
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4780587,
+          47.2470766
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4883792,
+          47.23042
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4890657,
+          47.2284727
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0539798,
+          47.0656911
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0627359,
+          47.0900183
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.058474,
+          47.0903979
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0449511,
+          47.089474
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2791024,
+          47.0483355
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2787198,
+          47.0521784
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2726966,
+          47.0567077
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2493409,
+          47.0518498
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0482314,
+          47.0492784
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.043749,
+          47.0441795
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0335827,
+          47.0403389
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.034465,
+          47.0378899
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.030794,
+          47.0364431
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0254461,
+          47.0378176
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0224936,
+          47.038545
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5826513,
+          47.2132172
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5143459,
+          47.2501571
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5137637,
+          47.2469368
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5133614,
+          47.2435117
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5063869,
+          47.2358705
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5029755,
+          47.2336163
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0781874,
+          47.2199365
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2118671,
+          47.1551956
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.209595,
+          47.1515769
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2098623,
+          47.1350273
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2045458,
+          47.1277745
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0676206,
+          47.2436971
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0634268,
+          47.2417255
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0604105,
+          47.240241
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5143459,
+          47.2501571
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5137637,
+          47.2469368
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5133614,
+          47.2435117
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5197261,
+          47.2374839
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5172278,
+          47.2329237
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0429951,
+          47.0904588
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1489039,
+          47.1012449
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1526572,
+          47.0991337
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1578357,
+          47.094903
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1714854,
+          47.0902991
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.180928,
+          47.08825
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1867053,
+          47.0849529
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1923715,
+          47.078944
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2079294,
+          47.0728937
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2149189,
+          46.9917237
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2218478,
+          46.9998459
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5741769,
+          47.2564571
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5753565,
+          47.2602851
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6078546,
+          47.2788832
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.474392,
+          47.226493
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1893207,
+          47.170367
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1760102,
+          47.161427
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.169046,
+          47.1633442
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1647248,
+          47.162788
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1586781,
+          47.160773
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9443557,
+          47.0058199
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9468986,
+          47.0149432
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9456743,
+          47.0175426
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9430615,
+          47.0195961
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9527993,
+          47.0474096
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9443557,
+          47.0058199
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9468986,
+          47.0149432
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9456743,
+          47.0175426
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9430615,
+          47.0195961
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9359236,
+          47.0420782
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1893207,
+          47.170367
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1854598,
+          47.1615611
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1889792,
+          47.1509253
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5741769,
+          47.2564571
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5753565,
+          47.2602851
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.221159,
+          46.9822518
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2651129,
+          46.9875405
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.288051,
+          46.9962137
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1341367,
+          47.1725637
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1422331,
+          47.1721586
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1530941,
+          47.171106
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1572859,
+          47.1645597
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1065695,
+          47.0790186
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1171822,
+          47.0718369
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0669795,
+          47.1345758
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0432963,
+          47.1412687
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0419175,
+          47.146097
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0403883,
+          47.1505735
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0352155,
+          47.1521553
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5423283,
+          47.2679565
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5372728,
+          47.2710133
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1237497,
+          47.0025224
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1080999,
+          47.0007836
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0859448,
+          47.0208345
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0811319,
+          47.0224681
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.074703,
+          47.0165733
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0725296,
+          47.0149478
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9532571,
+          46.9961688
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9684147,
+          46.9962363
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.990924,
+          47.0129759
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9532571,
+          46.9961688
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9684147,
+          46.9962363
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9782262,
+          47.0156851
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9814935,
+          47.0203011
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9862169,
+          47.0251751
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9863394,
+          47.0305802
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9844618,
+          47.0339178
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5494934,
+          47.2684003
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5458092,
+          47.2726119
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4631557,
+          47.2586772
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0676206,
+          47.2436971
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0634268,
+          47.2417255
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0809397,
+          47.0452628
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0958074,
+          47.0575126
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1237497,
+          47.0025224
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1080999,
+          47.0007836
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1826831,
+          47.2016776
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1727199,
+          47.1917063
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1752477,
+          47.1903914
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1778808,
+          47.1863875
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.174831,
+          47.1837578
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4568667,
+          47.2356391
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4647551,
+          47.2365222
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4686977,
+          47.2360868
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4744053,
+          47.2342387
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4349853,
+          47.2502925
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4394125,
+          47.2501644
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4488486,
+          47.2510808
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4564642,
+          47.2515144
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2287928,
+          47.1366906
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2133512,
+          47.1240125
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0669795,
+          47.1345758
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0290941,
+          47.1373135
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0234302,
+          47.1462737
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4513961,
+          47.2299586
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4475689,
+          47.2272413
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.446746,
+          47.2250359
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.449523,
+          47.2206655
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1893207,
+          47.170367
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1760102,
+          47.161427
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1713564,
+          47.1585997
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1893207,
+          47.170367
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1817885,
+          47.1593101
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178849,
+          47.155434
+        ]
+      },
+      "properties": {}
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2287928,
+          47.1366906
+        ]
+      },
+      "properties": {}
+    }
+  ]
+}
